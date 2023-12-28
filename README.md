@@ -1,3 +1,17 @@
+ <div align="center">
+     
+  <br />
+
+  <h2 align="center">Amazon-clone</h2>
+
+ Amazon-clone is a fully responsive ecommerce website, maximum compatiblities in all mobile devices, built using REACTJS.
+
+  <a href="https://clone-24f1d.web.app"><strong>➥ Live Demo</strong></a>
+
+</div>
+
+<br>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
