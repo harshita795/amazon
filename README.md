@@ -4,7 +4,7 @@
 
   <h2 align="center">Amazon-clone</h2>
 
- Amazon-clone is a fully responsive ecommerce website, maximum compatiblities in all mobile devices, built using REACTJS.
+ Amazon-clone is a responsive ecommerce website, maximum compatiblities in all mobile devices, built using REACTJS.
 
   <a href="https://clone-24f1d.web.app"><strong>➥ Live Demo</strong></a>
 
