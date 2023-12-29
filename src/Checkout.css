@@ -1,0 +1,44 @@
+.checkout {
+    display: flex;
+    padding: 20px;
+    background-color: white;
+    height: max-content;
+  }
+
+.checkout__ad {
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+.checkout__title {
+    margin-right: 10px;
+    padding: 10px;
+    border-bottom: 1px solid lightgray;
+  }
+
+  @media screen and (max-width: 480px) {
+     .checkout{
+      display: flex;
+      flex-direction: column;
+      margin: 10px 10px 10px 70px;
+      width: 310px;
+     }
+  }
+  
+  @media screen and (max-width: 380px) {
+      .checkout{
+        display: flex;
+      flex-direction: column;
+        margin: 10px 0px 10px 40px;
+        width: 350px;
+      }
+  }
+
+  @media screen and (max-width: 650px) {
+    .checkout{
+      display: flex;
+      flex-direction: column;
+      margin: 10px 0px 10px 40px;
+      width: 350px;
+    }
+}
